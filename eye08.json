@@ -1,10 +1,10 @@
 {
-    "name": "My dev Collection #8",
+    "name": "Colored Eye #8",
     "symbol": "MDC",
-    "description": "this is a dev test collection",
+    "description": "This is an updated version to the NFT metadata",
     "seller_fee_basis_points": 250,
     "image": "https://arweave.net/BYN2gMr-WunIWmr7xpSt6kXJORl0VyYwQaqljWrJiw0?ext=png",
-    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "external_url": "https://addbloom.com",
     "edition": 8,
     "attributes": [
         {
