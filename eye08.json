@@ -1,11 +1,54 @@
 {
-  "name":"My dev Collection #8",
-  "symbol":"MDC",
-  "description":"this is a dev test collection",
-  "seller_fee_basis_points":250,
-  "image":"https://arweave.net/BYN2gMr-WunIWmr7xpSt6kXJORl0VyYwQaqljWrJiw0?ext=png",
-  "external_url":"https://www.youtube.com/c/hashlipsnft",
-  "edition":8,
-  "attributes":[{"trait_type":"Background","value":"Black"},{"trait_type":"Eyeball","value":"White"},{"trait_type":"Eye color","value":"Yellow"},{"trait_type":"Iris","value":"Small"},{"trait_type":"Shine","value":"Shapes"},{"trait_type":"Bottom lid","value":"Low"},{"trait_type":"Top lid","value":"High"}],
-  "properties":{"files":[{"uri":"8.png","type":"image/png"}],"category":"image","creators":[{"address":"FHw3UyKdQuRJMJ8ZNaBjwzFvNfwQg4ppwQJyP9Gdo1Ff","share":100}]}
-  }
+    "name": "My dev Collection #8",
+    "symbol": "MDC",
+    "description": "this is a dev test collection",
+    "seller_fee_basis_points": 250,
+    "image": "https://arweave.net/BYN2gMr-WunIWmr7xpSt6kXJORl0VyYwQaqljWrJiw0?ext=png",
+    "external_url": "https://www.youtube.com/c/hashlipsnft",
+    "edition": 8,
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Eyeball",
+            "value": "White"
+        },
+        {
+            "trait_type": "Eye color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Iris",
+            "value": "Small"
+        },
+        {
+            "trait_type": "Shine",
+            "value": "Shapes"
+        },
+        {
+            "trait_type": "Bottom lid",
+            "value": "Low"
+        },
+        {
+            "trait_type": "Top lid",
+            "value": "High"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "FHw3UyKdQuRJMJ8ZNaBjwzFvNfwQg4ppwQJyP9Gdo1Ff",
+                "share": 100
+            }
+        ]
+    }
+}
