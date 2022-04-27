@@ -1,9 +1,9 @@
 {
-    "name": "Colored Eye #8",
+    "name": "MR. BIRDY",
     "symbol": "MDC",
     "description": "This is an updated version to the NFT metadata",
     "seller_fee_basis_points": 250,
-    "image": "https://arweave.net/BYN2gMr-WunIWmr7xpSt6kXJORl0VyYwQaqljWrJiw0?ext=png",
+    "image": "https://raw.githubusercontent.com/cbadour/NFT-Metadatas/main/Icon_Bird_512x512.png",
     "external_url": "https://addbloom.com",
     "edition": 8,
     "attributes": [
@@ -29,7 +29,7 @@
         },
         {
             "trait_type": "Bottom lid",
-            "value": "Low"
+            "value": "High"
         },
         {
             "trait_type": "Top lid",
