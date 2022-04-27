@@ -50,5 +50,8 @@
                 "share": 100
             }
         ]
+    },
+    extraDataForUs: {
+        loyaltyPointRemainingToSpend: '88'
     }
 }
