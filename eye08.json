@@ -52,7 +52,7 @@
         ]
     },
     "extraDataForUs": {
-        loyaltyPointRemainingToSpend: "88",
-        totalLoyalty: "120"
+        "loyaltyPointRemainingToSpend": "88",
+        "totalLoyalty": "120"
     }
 }
